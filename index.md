@@ -9,8 +9,6 @@ This course provides an introduction to the technologies used for developing Web
 
 Please read and make sure that you understand the [course syllabus](/syllabus).
 
-
-<<<<<<< HEAD
 ## Schedule
 
 | Section | Lectures | Room | Tutorial time | Room |
